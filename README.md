@@ -60,7 +60,7 @@ cd login-site</code></pre>
 ---
 
 <h2>License 📝</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>Pending...</p>
 
 ---
 
